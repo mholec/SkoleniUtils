@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace SkoleniUtils
+namespace Holec.SkoleniUtils
 {
     [Owned]
     public class Name

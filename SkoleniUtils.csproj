@@ -4,12 +4,14 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>Holec.SkoleniUtils</PackageId>
-    <PackageVersion>1.0.1</PackageVersion>
+    <PackageVersion>1.0.2</PackageVersion>
     <Authors>Miroslav Holec</Authors>
     <PackageProjectUrl>https://github.com/mholec/SkoleniUtils</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/mholec/SkoleniUtils/blob/master/LICENSE</PackageLicenseUrl>
     <PackageIconUrl>https://avatars1.githubusercontent.com/u/387784</PackageIconUrl>
     <RepositoryUrl>https://github.com/mholec/SkoleniUtils</RepositoryUrl>
+    <AssemblyName>Holec.SkoleniUtils</AssemblyName>
+    <RootNamespace>Holec.SkoleniUtils</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

@@ -2,7 +2,7 @@ using System;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
 
-namespace SkoleniUtils
+namespace Holec.SkoleniUtils
 {
     public class UnitOfWork : DbContext
     {

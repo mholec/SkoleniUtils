@@ -19,20 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="929db07e-6ed9-449a-b9ba-5eb6bb33e885" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SkoleniUtils.dir/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SkoleniUtils.dir/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SkoleniUtils.dir/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SkoleniUtils.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SkoleniUtils.dir/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SkoleniUtils.dir/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DbExtensions.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enrollment.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Holidays.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Name.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student.cs" afterDir="false" />
-    </list>
+    <list default="true" id="929db07e-6ed9-449a-b9ba-5eb6bb33e885" name="Default Changelist" comment="Default version" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,8 +64,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594884985099</updated>
-      <workItem from="1594884988836" duration="213000" />
+      <workItem from="1594884988836" duration="333000" />
     </task>
+    <task id="LOCAL-00001" summary="Default version">
+      <created>1594885219579</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594885219579</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Default version">
+      <created>1594885235386</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594885235386</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,5 +96,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Default version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default version" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="340" key="Vcs.Push.Dialog.v2" timestamp="1594885236936">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="560" y="340" key="Vcs.Push.Dialog.v2/0.0.1920.1200@0.0.1920.1200" timestamp="1594885236936" />
   </component>
 </project>

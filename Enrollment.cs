@@ -1,4 +1,4 @@
-namespace SkoleniUtils
+namespace Holec.SkoleniUtils
 {
     public class Enrollment
     {

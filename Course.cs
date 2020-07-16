@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace SkoleniUtils
+namespace Holec.SkoleniUtils
 {
     public class Course
     {

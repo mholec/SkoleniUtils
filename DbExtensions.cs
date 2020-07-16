@@ -1,6 +1,6 @@
 using Microsoft.Extensions.DependencyInjection;
 
-namespace SkoleniUtils
+namespace Holec.SkoleniUtils
 {
     public static class DbExtensions
     {
