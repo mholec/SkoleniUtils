@@ -19,8 +19,7 @@ Zaregistrujte třídu UnitOfWork, která bude poskytovat data pro aplikaci. Sta�
 
     public void ConfigureServices(IServiceCollection services)
     {
-    		services.AddDatabase();
-    
+        services.AddDatabase();
         //.... zbytek nastavení
     }
 
@@ -30,7 +29,6 @@ Spusťte seedování dat, abyste měli výchozí data pro testování. To proved
     public void ConfigureServices(IServiceCollection services, UnitOfWork uow)
     {
         uow.Seed();
-    
         //.... zbytek nastavení
     }
 
